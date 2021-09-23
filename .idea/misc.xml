@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Escola/Pam/App_3bi_zoo/app/src/main/res/layout/activity_animais.xml" value="0.25769927536231885" />
+        <entry key="..\:/Escola/Pam/App_3bi_zoo/app/src/main/res/layout/activity_main.xml" value="0.27717391304347827" />
+        <entry key="..\:/Escola/Pam/App_3bi_zoo/app/src/main/res/layout/activity_mapas_geo.xml" value="0.27717391304347827" />
+        <entry key="..\:/Escola/Pam/App_3bi_zoo/app/src/main/res/layout/activity_maps.xml" value="0.21927083333333333" />
+        <entry key="..\:/Escola/Pam/App_3bi_zoo/app/src/main/res/layout/activity_sensor_temperatura.xml" value="0.21927083333333333" />
+        <entry key="..\:/Escola/Pam/App_3bi_zoo/app/src/main/res/layout/activity_zoo.xml" value="0.25" />
+        <entry key="..\:/Escola/Pam/App_3bi_zoo/app/src/main/res/layout/example_widget.xml" value="0.75" />
+        <entry key="..\:/Escola/Pam/App_3bi_zoo/app/src/main/res/layout/new_app_widget.xml" value="0.21927083333333333" />
+        <entry key="..\:/Escola/Pam/App_3bi_zoo/app/src/main/res/layout/widget_example.xml" value="0.21927083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
