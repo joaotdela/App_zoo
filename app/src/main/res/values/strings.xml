@@ -7,4 +7,5 @@
     <string name="app_widget_description">This is an app widget description</string>
     <string name="bntanimal">Animais</string>
     <string name="btnzoo">Zoológico</string>
+    <string name="btnnews">Notícias</string>
 </resources>

@@ -7,6 +7,7 @@
         <entry key="..\:/Escola/Pam/App_3bi_zoo/app/src/main/res/layout/activity_main.xml" value="0.27717391304347827" />
         <entry key="..\:/Escola/Pam/App_3bi_zoo/app/src/main/res/layout/activity_mapas_geo.xml" value="0.27717391304347827" />
         <entry key="..\:/Escola/Pam/App_3bi_zoo/app/src/main/res/layout/activity_maps.xml" value="0.21927083333333333" />
+        <entry key="..\:/Escola/Pam/App_3bi_zoo/app/src/main/res/layout/activity_news.xml" value="0.25" />
         <entry key="..\:/Escola/Pam/App_3bi_zoo/app/src/main/res/layout/activity_sensor_temperatura.xml" value="0.21927083333333333" />
         <entry key="..\:/Escola/Pam/App_3bi_zoo/app/src/main/res/layout/activity_zoo.xml" value="0.25" />
         <entry key="..\:/Escola/Pam/App_3bi_zoo/app/src/main/res/layout/example_widget.xml" value="0.75" />
@@ -20,5 +21,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.3875" />
+      </ProjectState>
+    </option>
   </component>
 </project>
